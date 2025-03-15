@@ -9,12 +9,12 @@ const Navbar = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-4">
               <img 
-                src="https://www.unionbankonline.co.in/images/union-bank.png" 
+                src="union_bank_logo.png" 
                 alt="Union Bank Logo" 
                 className="h-12"
               />
               <img 
-                src="https://www.unionbankonline.co.in/images/azadi-ka-amrit-mahotsav.png" 
+                src="azadi_logo.png" 
                 alt="Azadi Ka Amrit Mahotsav" 
                 className="h-12"
               />
